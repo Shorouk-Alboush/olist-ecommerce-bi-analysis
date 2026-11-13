@@ -1,0 +1,4 @@
+﻿delivery_status_group,orders,orders_with_review,avg_review_score,low_review_orders,low_review_rate_pct
+On Time or Early,88644,88163,4.29429201213661,8100,9.137674292676323
+Delayed,7826,7661,2.566505678109907,4136,52.84947610529006
+Not Delivered / Unknown,2971,2849,1.7537732537732538,2213,74.48670481319421

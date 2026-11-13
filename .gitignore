@@ -1,0 +1,17 @@
+# Python-generated local files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Machine-specific IDE files
+.vscode/
+.idea/
+
+# OS cache
+Thumbs.db
+.DS_Store
+
+# Power BI local lock/temporary files
+*.pbix.tmp

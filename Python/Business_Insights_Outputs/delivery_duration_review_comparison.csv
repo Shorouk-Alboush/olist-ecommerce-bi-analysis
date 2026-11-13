@@ -1,0 +1,6 @@
+﻿delivery_days_group,delivered_orders,orders_with_review,avg_review_score
+0-3 days,6952,6926,4.462388
+4-7 days,23742,23624,4.397724
+8-14 days,37979,37775,4.298928
+15-30 days,23503,23319,3.939120
+31+ days,4294,4180,2.204067

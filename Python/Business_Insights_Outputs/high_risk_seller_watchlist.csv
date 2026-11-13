@@ -1,0 +1,12 @@
+﻿investigation_priority_rank,seller_id,distinct_seller_order_pairs,delivered_seller_order_pairs,delayed_seller_order_pairs,seller_city,seller_state,delay_rate_pct,qualified,high_risk
+1,06a2c3af7b3aee5d69171b0e14f0ee87,392,389,90,sao luis,MA,23.140000,True,True
+2,8160255418d5aaa7dbdc9f4c64ebda44,385,380,63,ibitinga,SP,16.580000,True,True
+3,88460e8ebdecbfecb5f9601833981930,248,246,48,maringa,PR,19.510000,True,True
+4,e5a3438891c0bfdb9394643f95273d8e,224,216,40,limeira,SP,18.520000,True,True
+5,f7ba60f8c3f99e7ee4042fdef03b70c4,219,218,34,sao bernardo do campo,SP,15.600000,True,True
+6,1ca7077d890b907f89be8c954a02686a,115,108,24,santana de parnaiba,SP,22.220000,True,True
+7,8f2ce03f928b567e3d56181ae20ae952,153,151,23,pirituba,SP,15.230000,True,True
+8,cd68562d3f44870c08922d380acae552,125,122,22,ribeirao preto,SP,18.030000,True,True
+9,2c9e548be18521d1c43cde1c582c6de8,126,124,20,mogi das cruzes,SP,16.130000,True,True
+10,dd7ddc04e1b6c2c614352b383efe2d36,122,121,19,sao paulo,SP,15.700000,True,True
+11,431af27f296bc6519d890aa5a05fdb11,117,116,18,ribeirao preto,SP,15.520000,True,True
