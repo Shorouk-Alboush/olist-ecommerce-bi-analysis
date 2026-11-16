@@ -6,6 +6,25 @@ A **SQL-to-dashboard business intelligence case study** examining order value, p
 
 The project combines an order-level and item-level SQL analytical model, cross-checked KPIs, exploratory analysis in Python, business-investigation priorities, and a five-page Power BI report. The focus is on measurable performance, transparent KPI definitions, and practical operational priorities.
 
+## Explore the Project
+
+![Olist Executive Summary Dashboard](Dashboard_Screenshots/01_Executive_Summary.png)
+
+**At a glance:** 99,441 orders · 15.84M recorded order value (including freight) · 8.11% delivery delay rate · 4.09/5 average review score · 11 qualified high-risk sellers.
+
+| Start here | What you can review |
+|---|---|
+| [Power BI report (.pbix)](PowerBI/Olist_BI.pbix) | Five interactive report pages with imported historical data |
+| [Dashboard screenshots](Dashboard_Screenshots/) | Visual review without installing Power BI |
+| [SQL analytics & validation](SQL/) | Analytical views, KPI queries and data-quality checks |
+| [Python analysis](Python/) | Validations, exploratory analysis and business insight scripts |
+| [Exploratory findings](Python/EDA_Outputs/EDA_SUMMARY.md) | Statistical summaries and charts |
+| [Business insights report](Python/Business_Insights_Outputs/BUSINESS_INSIGHTS_REPORT.md) | Operational investigation priorities |
+
+**Opening the report:** Use Power BI Desktop to open the included `.pbix` file. Imported data should support reviewing the saved report without a SQL connection; refreshing or reproducing the analysis requires the prepared SQL Server database described below. This repository contains historical, not live, data.
+
+---
+
 ## Table of Contents
 
 - [Business Problem & Objectives](#business-problem--objectives)
